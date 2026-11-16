@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PennyWise.API/PennyWise.API.csproj" />
+  <Project Path="PennyWise.Core/PennyWise.Core.csproj" />
+  <Project Path="PennyWise.Infrastructure/PennyWise.Infrastructure.csproj" />
+  <Project Path="PennyWise.Services/PennyWise.Services.csproj" />
+  <Project Path="PennyWise.Tests/PennyWise.Tests.csproj" />
+</Solution>

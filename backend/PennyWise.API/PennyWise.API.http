@@ -1,0 +1,11 @@
+@PennyWise.API_HostAddress = http://localhost:5191
+
+GET {{PennyWise.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{PennyWise.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
